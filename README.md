@@ -18,7 +18,7 @@ Fique a vontade para utilizar quaisquer outras tecnologias que julgar benéficas
   - Git
 
 # Sobre a aplicação
-Construa uma aplicação utilizando as tecnologias recomendadas ou quaisquer outras tecnologias que julgar benéficas ao projeto. A aplicação deve possuir uma sistema de login e as seguintes entidades:
+Construa uma aplicação utilizando as tecnologias recomendadas ou quaisquer outras tecnologias que julgar benéficas ao projeto. A aplicação deve possuir um sistema de login, e possuir entidades listadas abaixo. O administrador será responsável por todos os cadastros e vínculos, cada turma pertence a sua escola, e os professores poderão ser vinculados a uma ou mais turmas e escolas. Utilize boas práticas e normalização de banco de dados.
 
  - Administrador
  - Escola
