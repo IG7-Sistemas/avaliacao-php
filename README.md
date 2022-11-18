@@ -6,24 +6,29 @@ Esse teste visa avaliar os conhecimentos do candidato a vaga de programador PHP 
 
 # Objetivos
   - Conhecer e avaliar suas habilidades em:
-    - Laravel
-    - Determinação na busca de soluções
-    - Tomada de decisões
+    - Laravel;
+    - Determinação na busca de soluções;
+    - Tomada de decisões;
+    - Organização do código;
+    - Legibilidade.
 
 # Stack
 Fique a vontade para utilizar quaisquer outras tecnologias que julgar benéficas ao projeto.
-  - Laravel (versão mais recente estável)
-  - Mysql/MariaDB
-  - PHP 8.*
-  - Git
+  - Laravel (versão mais recente estável);
+  - Mysql/MariaDB;
+  - PHP 8.*;
+  - HTML;
+  - CSS;
+  - Javascript;
+  - Git.
 
 # Sobre a aplicação
 Construa uma aplicação utilizando as tecnologias recomendadas ou quaisquer outras tecnologias que julgar benéficas ao projeto. A aplicação deve possuir um sistema de login, e possuir entidades listadas abaixo. O administrador será responsável por todos os cadastros e vínculos, cada turma pertence a sua escola, e os professores poderão ser vinculados a uma ou mais turmas e escolas. Utilize boas práticas e normalização de banco de dados.
 
- - Administrador
- - Escola
- - Turma
- - Professor
+ - Administrador;
+ - Escola;
+ - Turma;
+ - Professor.
 
 # Funcionalidades
   - Utilize uma seeder para cadastrar o usuário princiapl (Administrador)
@@ -33,7 +38,7 @@ Construa uma aplicação utilizando as tecnologias recomendadas ou quaisquer out
   - Vinculo de professores em turmas
 
 # Base de dados
-Durante o desenvolvimento siga boas práticas e recomendações de banco de dados. As tabelas devem possuir os seguinte campos:
+Durante o desenvolvimento siga boas práticas e recomendações de banco de dados. O banco de dados deve ser criado utilizando Migrations do framework. As tabelas devem possuir os seguinte campos:
   - Escola
     - id
     - status
