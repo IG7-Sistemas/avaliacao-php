@@ -31,7 +31,7 @@ Construa uma aplicação utilizando as tecnologias recomendadas ou quaisquer out
  - Professor.
 
 # Funcionalidades
-  - Utilize uma seeder para cadastrar o usuário princiapl (Administrador)
+  - Utilize uma seeder para cadastrar o usuário principal (Administrador)
   - Cadastro, edição e remoção de escolas
   - Cadastro, edição e remoção de turmas
   - Cadastro, edição e remoção de profesores
