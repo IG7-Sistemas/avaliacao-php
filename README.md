@@ -1,37 +1,35 @@
 <p align="center"><img style="width: 500px;" src="https://sipae.com.br/logo.png"></p>
 
-# Teste de conhecimento - Laravel
+# Teste de conhecimento - PHP
 
-Esse teste visa avaliar os conhecimentos do candidato a vaga de programador PHP Laravel.
+Esse teste visa avaliar os conhecimentos do candidato a vaga de programador PHP.
 
 # Objetivos
   - Conhecer e avaliar suas habilidades em:
-    - Laravel;
+    - PHP;
     - Determinação na busca de soluções;
     - Tomada de decisões;
     - Organização do código;
     - Legibilidade.
-
+ 
 # Stack
 Fique a vontade para utilizar quaisquer outras tecnologias que julgar benéficas ao projeto.
-  - Laravel (versão mais recente estável);
   - Mysql/MariaDB;
-  - PHP 8.*;
+  - PHP;
   - HTML;
   - CSS;
   - Javascript;
   - Git.
 
 # Sobre a aplicação
-Construa uma aplicação utilizando as tecnologias recomendadas ou quaisquer outras tecnologias que julgar benéficas ao projeto. A aplicação deve possuir um sistema de login, e possuir entidades listadas abaixo. O administrador será responsável por todos os cadastros e vínculos, cada turma pertence a sua escola, e os professores poderão ser vinculados a uma ou mais turmas e escolas. Utilize boas práticas e normalização de banco de dados.
+Construa uma aplicação utilizando as tecnologias recomendadas ou quaisquer outras tecnologias que julgar benéficas ao projeto. A aplicação deve possuir as entidades listadas abaixo. 
+Cada turma pertence a uma escola, e os professores poderão ser vinculados a uma ou mais turmas.
 
- - Administrador;
  - Escola;
  - Turma;
  - Professor.
 
 # Funcionalidades
-  - Utilize uma seeder para cadastrar o usuário principal (Administrador)
   - Cadastro, edição e remoção de escolas
   - Cadastro, edição e remoção de turmas
   - Cadastro, edição e remoção de profesores
@@ -47,6 +45,7 @@ Durante o desenvolvimento siga boas práticas e recomendações de banco de dado
     - nome
   - Turma
     - id
+    - id_escola
     - status
     - turno
     - nome
