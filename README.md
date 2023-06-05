@@ -37,8 +37,8 @@ Cada turma pertence a uma escola, e os professores poderão ser vinculados a uma
 
 # Base de dados
 Durante o desenvolvimento siga boas práticas e recomendações de banco de dados;
-Faça os relacionmentos entre tabelas;
-As tabelas devem possuir os seguinte campos:
+Faça os relacionamentos entre tabelas.
+As tabelas devem possuir os seguintes campos:
   - Escola
     - id
     - status
