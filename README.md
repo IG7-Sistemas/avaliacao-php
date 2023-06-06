@@ -22,7 +22,7 @@ Fique a vontade para utilizar quaisquer outras tecnologias que julgar benéficas
   - Git.
 
 # Sobre a aplicação
-Construa uma aplicação utilizando as tecnologias recomendadas ou quaisquer outras tecnologias que julgar benéficas ao projeto. A aplicação deve possuir as entidades listadas abaixo. 
+Construa uma aplicação utilizando as tecnologias recomendadas e quaisquer outras tecnologias que julgar benéficas ao projeto. A aplicação deve possuir as entidades listadas abaixo. 
 Cada turma pertence a uma escola, e os professores poderão ser vinculados a uma ou mais turmas.
 
  - Escola;
